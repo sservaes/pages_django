@@ -1,0 +1,9 @@
+.env
+*.txt
+*.csv
+*.xls
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.tiff
